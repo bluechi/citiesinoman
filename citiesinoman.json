@@ -1,0 +1,36 @@
+{
+  "title": "Cities In Oman",
+  "name": "cities-in-oman",
+  "resources": [
+    {
+      "name": "citiesinoman.csv",
+      "path": "citiesinoman.csv",
+      "mediatype": "text/csv",
+      "bytes": 3366,
+      "schema": {
+        "fields": [
+          {
+            "name": "name_ar",
+            "type": "string"
+          },
+          {
+            "name": "governant_ar",
+            "type": "string"
+          },
+          {
+            "name": "governant_capital",
+            "type": "string"
+          },
+          {
+            "name": "name_en",
+            "type": "string"
+          },
+          {
+            "name": "governant_en",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ]
+}
